@@ -102,3 +102,4 @@ For more information, feel free to visit the official website for the WordPress 
 
 == Upgrade Notice ==
 * 1.4: Update available
+* 1.4.1: Update the readme.txt file
