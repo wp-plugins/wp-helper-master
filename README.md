@@ -5,7 +5,7 @@ A wordpress plugin that disables, enables, and enhances WP and other settings
 
 WordPress Helper Master
 =========
-Contributors: cjerrington
+Contributors: [cjerrington](http://claytonerrington.com)
 
 Donate link:https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=MBTuGoGXfC-gfs0L
 
@@ -13,7 +13,7 @@ Tags: improvements, wordpress, admin, security
 
 Requires at least: 3.0
 
-Tested up to: 4.0.1
+Tested up to: 4.1
 
 Stable tag: /master/
 
@@ -33,6 +33,7 @@ Changelog
 2014-12-10 - v1.0 - first version
 2014-12-11 - v1.2 - add security, performance, and admin modifications
 2014-12-11 - v1.3 - add admin / options page
+2015-02-15 - v1.4.2 - Update Author URI
 
 Frequently Asked Questions
 =========
